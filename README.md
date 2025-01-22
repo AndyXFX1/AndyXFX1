@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-<!--
-**AndyXFX1/AndyXFX1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**AndyXFX1/AndyXFX1** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+```python
+print("HELLO WORLD")
+```
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+1. 1
+   - 1.1
+3. 2
+4. 3
+5. 4
+6. 5
+7. 6
+>
