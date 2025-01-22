@@ -1,26 +1,5 @@
-## Hi there 👋
+# Header
+## subheader
+**This is bold text**
+**_hello_**
 
-
-**AndyXFX1/AndyXFX1** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-```python
-print("HELLO WORLD")
-```
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-1. 1
-   - 1.1
-3. 2
-4. 3
-5. 4
-6. 5
-7. 6
->
